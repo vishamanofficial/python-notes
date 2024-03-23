@@ -47,3 +47,13 @@ print(list)
 # insert element at index 
 list.insert(5,5)
 print(list)
+# removes first occurrence of elememnt
+list.remove(1)
+print(list)
+# remove element at index 
+list.pop(3)
+print(list)
+
+
+
+# Tuples in python 
