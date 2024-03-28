@@ -67,3 +67,7 @@ for val in nums:
 else:
     print('End')
 
+# range( )
+# range( start?, stop, step?)
+# Range functions returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number.
+
