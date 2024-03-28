@@ -57,3 +57,19 @@ print(list)
 
 
 # Tuples in python 
+# (a built in data type that lets us create immutable swquence of values)
+
+tup = (56, 656, 2345 , 46534)
+print(type(tup), tup)
+print(tup[1])
+# slicing is same as list 
+
+# tuple methods
+# returns index of first occurence
+tup.index(656)
+print(tup)
+# counts total occurance
+tup.count(56)
+print(tup)
+
+
